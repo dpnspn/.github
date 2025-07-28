@@ -1,7 +1,7 @@
 # ОАА ДПНСПН
 Вас приветствует Общество анонимных алкоголиков ДПНСПН
 
-Это объеденение двух великих: [@mbutsk](https://github.com/mbutsk) и [@moontr3](https://github.com/moontr3)
+Это объедение двух великих: [@mbutsk](https://github.com/mbutsk) и [@moontr3](https://github.com/moontr3)
 ## Что здесь будет?
 * Боты
 * Апи
