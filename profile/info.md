@@ -14,3 +14,5 @@
 
 Наши блоги есть на Дискорд сервере [FunCode](https://discord.gg/K3gdeGsPVP)
 больше ниче не придумал, идите вы
+
+## [Ваш мусорок](https://github.com/dpnspn/your-rubbish)
